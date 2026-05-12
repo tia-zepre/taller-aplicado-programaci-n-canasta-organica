@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56809023854",
+    "project_id": "cestaorganica-962ae",
+    "storage_bucket": "cestaorganica-962ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56809023854:android:b14dc5bc7379c1f7a6b97f",
+        "android_client_info": {
+          "package_name": "com.example.cestaOganicaIA"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUHBSySej8Mcrw1q7NCbBiwN5LPqYzJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
